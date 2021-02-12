@@ -1,0 +1,3 @@
+/home/home/Desktop/project2/System_Monitor/build/CMakeFiles/rebuild_cache.dir
+/home/home/Desktop/project2/System_Monitor/build/CMakeFiles/edit_cache.dir
+/home/home/Desktop/project2/System_Monitor/build/CMakeFiles/monitor.dir
