@@ -17,8 +17,6 @@ regex
 -
 string
 -
-filesystem
--
 
 ../include/ncurses_display.h
 curses.h
